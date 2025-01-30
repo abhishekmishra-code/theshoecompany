@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.section-container {
+    @apply max-w-[1536px]
+}
+
+
+@theme {
+    --breakpoint-xs: 30rem;
+  }
